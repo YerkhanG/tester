@@ -2,7 +2,7 @@ package tester
 
 import (
 	"fmt"
-	"github.com/YerkhanG/Golang-/tree/master/module"
+	module "github.com/YerkhanG/import_test"
 )
 
 func main() {
